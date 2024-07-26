@@ -1,0 +1,628 @@
+{
+    "courses": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "okhjgd2cxtBvra2Jsp02UxNRn7o",
+            "id": "PL-CtdCApEFH_G_2eNTpWT8A2-zQoNQXDw",
+            "snippet": {
+                "publishedAt": "2024-06-23T09:40:52Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "Tutorial Bootstrap",
+                "description": "Tutorial Bootstrap CSS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iYXbzOC-j5E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iYXbzOC-j5E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iYXbzOC-j5E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iYXbzOC-j5E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iYXbzOC-j5E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "Tutorial Bootstrap",
+                    "description": "Tutorial Bootstrap CSS"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH_G_2eNTpWT8A2-zQoNQXDw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "wgUsCMGTmSWjjk2YYzak_84BmzY",
+            "id": "PL-CtdCApEFH8jwcBY2jAdUOIPQf0jfoXA",
+            "snippet": {
+                "publishedAt": "2024-04-16T04:25:43Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL BUN",
+                "description": "Belajar Bun",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XzxhvNDNBgY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XzxhvNDNBgY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XzxhvNDNBgY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XzxhvNDNBgY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XzxhvNDNBgY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL BUN",
+                    "description": "Belajar Bun"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH8jwcBY2jAdUOIPQf0jfoXA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YvgvpUZgbcD_Janhe6FhagY5a6o",
+            "id": "PL-CtdCApEFH9ST1IIR8xWOO0M6x7Dj9yX",
+            "snippet": {
+                "publishedAt": "2024-03-11T15:44:13Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL NESTJS",
+                "description": "Tutorial NestJS (Bahasa Indonesia)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BXTEwuoDkDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BXTEwuoDkDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BXTEwuoDkDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BXTEwuoDkDQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BXTEwuoDkDQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL NESTJS",
+                    "description": "Tutorial NestJS (Bahasa Indonesia)"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH9ST1IIR8xWOO0M6x7Dj9yX\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "5CEYs5Ei5IZSnoOue-gmGU5mM68",
+            "id": "PL-CtdCApEFH9EVHI2JfQ16EPtpoO1fJ3y",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:14:23Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL CSS",
+                "description": "Tutorial CSS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8FhmFuGLhaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8FhmFuGLhaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8FhmFuGLhaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8FhmFuGLhaQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8FhmFuGLhaQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL CSS",
+                    "description": "Tutorial CSS"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH9EVHI2JfQ16EPtpoO1fJ3y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "SvreffRM0fNA1qwYFU0zF1Iqa8Y",
+            "id": "PL-CtdCApEFH_nL-cY8wow4uA2ZFgox4Kw",
+            "snippet": {
+                "publishedAt": "2023-07-22T14:41:12Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL VUEJS",
+                "description": "Tutorial VueJS (Bahasa Indonesia) untuk Pemula sampai Mahir",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6UJnu25ji2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6UJnu25ji2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6UJnu25ji2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6UJnu25ji2A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6UJnu25ji2A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL VUEJS",
+                    "description": "Tutorial VueJS (Bahasa Indonesia) untuk Pemula sampai Mahir"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH_nL-cY8wow4uA2ZFgox4Kw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "HDpMVzQidSEDCo74Atlx3-D6uOo",
+            "id": "PL-CtdCApEFH9jIdygiF4vTIs4Xpo_cHhC",
+            "snippet": {
+                "publishedAt": "2023-07-05T01:34:43Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL TYPESCRIPT",
+                "description": "Tutorial TypeScript untuk Pemula",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C_C64faSO4c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C_C64faSO4c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C_C64faSO4c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C_C64faSO4c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C_C64faSO4c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL TYPESCRIPT",
+                    "description": "Tutorial TypeScript untuk Pemula"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 5
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH9jIdygiF4vTIs4Xpo_cHhC\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "vukzBbE7mmBLESZ5zjcjE6fN-og",
+            "id": "PL-CtdCApEFH8cjnZbv3o6G0kHEPc3GYVO",
+            "snippet": {
+                "publishedAt": "2023-02-13T12:06:48Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "HTML",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hMDJyb7VkYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hMDJyb7VkYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hMDJyb7VkYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hMDJyb7VkYw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hMDJyb7VkYw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "HTML",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH8cjnZbv3o6G0kHEPc3GYVO\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "njKcIg865Cca4PBbjTtVpub2M0A",
+            "id": "PL-CtdCApEFH8AoW8KgbHM9q_gXKsXyyht",
+            "snippet": {
+                "publishedAt": "2022-04-20T01:07:12Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL LARAVEL",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ClMX6TXvh_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ClMX6TXvh_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ClMX6TXvh_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ClMX6TXvh_o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ClMX6TXvh_o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL LARAVEL",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 17
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH8AoW8KgbHM9q_gXKsXyyht\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "_0Oirj3boLIsl4giI-Q3eM9Eirw",
+            "id": "PL-CtdCApEFH9540Fr7MvF9t-vG6pR9vjw",
+            "snippet": {
+                "publishedAt": "2021-12-22T09:33:55Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL NODEJS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b39Xqf5iyjo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b39Xqf5iyjo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b39Xqf5iyjo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b39Xqf5iyjo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b39Xqf5iyjo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL NODEJS",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 16
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH9540Fr7MvF9t-vG6pR9vjw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ZgKcyH_kiIXFbD-gSKkRUGf3Jow",
+            "id": "PL-CtdCApEFH_Yi1tE1KKIYpkEgM4cCz8t",
+            "snippet": {
+                "publishedAt": "2021-07-11T15:32:05Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL WEB",
+                "description": "Belajar Web untuk Pemula sampai Mahir",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/92Rjzrq4oIg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/92Rjzrq4oIg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/92Rjzrq4oIg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/92Rjzrq4oIg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/92Rjzrq4oIg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL WEB",
+                    "description": "Belajar Web untuk Pemula sampai Mahir"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 4
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH_Yi1tE1KKIYpkEgM4cCz8t\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "A_JlVK3Rafb5PJNF8TgEB4cz0mI",
+            "id": "PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg",
+            "snippet": {
+                "publishedAt": "2020-10-11T05:22:52Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "TUTORIAL JAVASCRIPT",
+                "description": "Belajar Pemrograman JavaScript untuk Pemula sampai Mahir",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SDROba_M42g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SDROba_M42g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SDROba_M42g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SDROba_M42g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SDROba_M42g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "TUTORIAL JAVASCRIPT",
+                    "description": "Belajar Pemrograman JavaScript untuk Pemula sampai Mahir"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 11
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "lJAOC7fkaVrt5bGT2OFYcKCbvP0",
+            "id": "PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et",
+            "snippet": {
+                "publishedAt": "2019-12-31T05:52:19Z",
+                "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+                "title": "Belajar JavaScript Async",
+                "description": "Belajar JavaScript Async\n\nMateri yang dibahas :\n- Asynchronous vs Synchronous\n- Callback\n- AJAX\n- Promise\n- Async Await\n- Web Worker\n\nSlide Materi :\nhttps://docs.google.com/presentation/d/1414Q2ftlWYHmrHQ48UH4BKJfDBgsG9MOHW2xDSADiBU/edit?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LLT6EAtX-x8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LLT6EAtX-x8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LLT6EAtX-x8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LLT6EAtX-x8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LLT6EAtX-x8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Programmer Zaman Now",
+                "localized": {
+                    "title": "Belajar JavaScript Async",
+                    "description": "Belajar JavaScript Async\n\nMateri yang dibahas :\n- Asynchronous vs Synchronous\n- Callback\n- AJAX\n- Promise\n- Async Await\n- Web Worker\n\nSlide Materi :\nhttps://docs.google.com/presentation/d/1414Q2ftlWYHmrHQ48UH4BKJfDBgsG9MOHW2xDSADiBU/edit?usp=sharing"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 18
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        }
+    ]
+}
