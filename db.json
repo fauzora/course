@@ -624,5 +624,423 @@
                 "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             }
         }
-    ]
+    ],
+    "mobile_courses": [
+  {
+    "kind": "youtube#playlist",
+    "etag": "ysY6u8KxqgVe9vkYGN2Modpwo10",
+    "id": "PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up",
+    "snippet": {
+      "publishedAt": "2020-09-09T02:23:16Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "Belajar Kotlin Unit Test",
+      "description": "Belajar Kotlin Unit Test untuk Pemula\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up\n\nSlide : https://docs.google.com/presentation/d/1zoIFBXA5vglz6FWBOsPtzFUAYCrDj-Qqo444Q58T5t0/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-unit-test\n\n#kotlin #kotlinunittest #kotlintest",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nsKGgZJEjIs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nsKGgZJEjIs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nsKGgZJEjIs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nsKGgZJEjIs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nsKGgZJEjIs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "Belajar Kotlin Unit Test",
+        "description": "Belajar Kotlin Unit Test untuk Pemula\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up\n\nSlide : https://docs.google.com/presentation/d/1zoIFBXA5vglz6FWBOsPtzFUAYCrDj-Qqo444Q58T5t0/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-unit-test\n\n#kotlin #kotlinunittest #kotlintest"
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 25
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "vjcCHIjsxeVOLwNlzxiuPVgX96k",
+    "id": "PL-CtdCApEFH9DlK3VckLaN5ohp6sn37d8",
+    "snippet": {
+      "publishedAt": "2020-10-09T04:41:08Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "TUTORIAL KOTLIN",
+      "description": "Belajar Pemrograman Kotlin untuk Pemula sampai Mahir",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/itQfBTZLOvM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/itQfBTZLOvM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/itQfBTZLOvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/itQfBTZLOvM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/itQfBTZLOvM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "TUTORIAL KOTLIN",
+        "description": "Belajar Pemrograman Kotlin untuk Pemula sampai Mahir"
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 3
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH9DlK3VckLaN5ohp6sn37d8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "47Kv220VmEDIWtOwV-YezIMZBic",
+    "id": "PL-CtdCApEFH9qVH17yCbWZICYopHj4vhn",
+    "snippet": {
+      "publishedAt": "2021-09-09T16:06:20Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "TUTORIAL DART",
+      "description": "Belajar Pemrograman Dart dari Pemula sampai Mahir",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-mzXdI27tyk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-mzXdI27tyk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-mzXdI27tyk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-mzXdI27tyk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-mzXdI27tyk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "TUTORIAL DART",
+        "description": "Belajar Pemrograman Dart dari Pemula sampai Mahir"
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 12
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH9qVH17yCbWZICYopHj4vhn\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "rEYxeRXkERsaRgfGE_AOBA7oEI4",
+    "id": "PL-CtdCApEFH9kC-xh_g7WeCB33lHXxWFc",
+    "snippet": {
+      "publishedAt": "2022-02-04T11:54:27Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "TUTORIAL ANDROID",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pUTz5IOkBtE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pUTz5IOkBtE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pUTz5IOkBtE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pUTz5IOkBtE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pUTz5IOkBtE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "TUTORIAL ANDROID",
+        "description": ""
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 1
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH9kC-xh_g7WeCB33lHXxWFc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "MQFulIf-PTR7ZHY5C5UK4MIO0U4",
+    "id": "PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr",
+    "snippet": {
+      "publishedAt": "2020-04-16T03:34:26Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "Belajar Kotlin Collection",
+      "description": "Belajar Kotlin Collection\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr\n\nSlide : https://docs.google.com/presentation/d/1KZY6GhY06o1HZu8R-tD-THYnz5_EWJCdA75XULX_ZeM/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-collection\n\n#kotlin #kotlinCollection #kotlinDataStructure",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PGgPwkrMc0U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PGgPwkrMc0U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PGgPwkrMc0U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PGgPwkrMc0U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PGgPwkrMc0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "Belajar Kotlin Collection",
+        "description": "Belajar Kotlin Collection\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr\n\nSlide : https://docs.google.com/presentation/d/1KZY6GhY06o1HZu8R-tD-THYnz5_EWJCdA75XULX_ZeM/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-collection\n\n#kotlin #kotlinCollection #kotlinDataStructure"
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 42
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "D3cm806UCL40pgxqWho-PKsyPOw",
+    "id": "PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR",
+    "snippet": {
+      "publishedAt": "2020-04-16T03:33:57Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "Belajar Kotlin Generic",
+      "description": "Belajar Kotlin Generic\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR\n\nSlide : https://docs.google.com/presentation/d/1Iu3y3bLm9Lv9qq9cJcGch5p4sLJzOCaTHSAl2Xn6fDo/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-generic \n\n#kotlin #kotlinGeneric #genericProgramming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DSxGvcl2YR8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DSxGvcl2YR8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DSxGvcl2YR8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DSxGvcl2YR8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DSxGvcl2YR8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "Belajar Kotlin Generic",
+        "description": "Belajar Kotlin Generic\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR\n\nSlide : https://docs.google.com/presentation/d/1Iu3y3bLm9Lv9qq9cJcGch5p4sLJzOCaTHSAl2Xn6fDo/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-generic \n\n#kotlin #kotlinGeneric #genericProgramming"
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 16
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "jW9LSIRB63MHS5H6wUzHpdn7890",
+    "id": "PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog",
+    "snippet": {
+      "publishedAt": "2020-04-06T18:03:00Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "Belajar Kotlin Object Oriented Programming",
+      "description": "Belajar Kotlin Object Oriented Programming\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog\n\nSlide : https://docs.google.com/presentation/d/1aeQWBgd1XE7IRvgC-fkcs6ReL5H2qX5tAi4r66dusok/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-oop\n\n#kotlin #kotlinOOP #objectOrientedProgramming",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QlmMEagRNnA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QlmMEagRNnA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QlmMEagRNnA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QlmMEagRNnA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QlmMEagRNnA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "Belajar Kotlin Object Oriented Programming",
+        "description": "Belajar Kotlin Object Oriented Programming\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog\n\nSlide : https://docs.google.com/presentation/d/1aeQWBgd1XE7IRvgC-fkcs6ReL5H2qX5tAi4r66dusok/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-oop\n\n#kotlin #kotlinOOP #objectOrientedProgramming"
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 51
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "ZUIhoPjqiYLI3C7YG6UHH5eTtgM",
+    "id": "PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa",
+    "snippet": {
+      "publishedAt": "2020-04-02T17:39:43Z",
+      "channelId": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "title": "Belajar Kotlin Dasar untuk Pemula",
+      "description": "Belajar Kotlin Dasar untuk Pemula\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa\n\nSlide : https://docs.google.com/presentation/d/14E169Dpd1q8R7EKxevYitZM8nBoAh5u4HfVJ8YKR1UU/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-dasar\n\n#kotlin #kotlinfundamental #kotlindasar",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6dSNbskzlz4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6dSNbskzlz4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6dSNbskzlz4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6dSNbskzlz4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6dSNbskzlz4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Programmer Zaman Now",
+      "localized": {
+        "title": "Belajar Kotlin Dasar untuk Pemula",
+        "description": "Belajar Kotlin Dasar untuk Pemula\n\nPlaylist Lengkap : https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa\n\nSlide : https://docs.google.com/presentation/d/14E169Dpd1q8R7EKxevYitZM8nBoAh5u4HfVJ8YKR1UU/edit?usp=sharing\n\nSource Code : https://github.com/ProgrammerZamanNow/belajar-kotlin-dasar\n\n#kotlin #kotlinfundamental #kotlindasar"
+      }
+    },
+    "status": {
+      "privacyStatus": "public"
+    },
+    "contentDetails": {
+      "itemCount": 42
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  }
+]
 }
