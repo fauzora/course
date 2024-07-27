@@ -1,5 +1,5 @@
 {
-    "courses": [
+    "web_courses": [
         {
             "kind": "youtube#playlist",
             "etag": "okhjgd2cxtBvra2Jsp02UxNRn7o",
